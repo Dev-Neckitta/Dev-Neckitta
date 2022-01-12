@@ -1,17 +1,16 @@
 # About Me 
 
 
-const Neckitta = {
-    name: "Neckitta",
-    age: 18,
-    from: "French",
-    Discord: "DEV | Neckitta#0001",
+const Fnr = {
+    name: "Ahmed",
+    age: 17,
+    from: "Bahrain",
+    Discord: "Fnr#0017",
     technologies: {
-        backend: ["Pocketmine"],
-        database: ["Mysql"],
+        backend: ["NodeJS", "express"],
+        database: ["Mysql", "MongoDB"],
     },
-    languages: ["PHP", "Python"]
+    languages: ["Python", "HTML", "CSS", "JavaScript"]
 };
-
 
 # lol
