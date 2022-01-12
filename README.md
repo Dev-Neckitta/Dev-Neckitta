@@ -24,4 +24,6 @@ const Dev-Neckitta = {
 };
 
 
-# Yeah
+# Github Stats 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiDev-Neckitta=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
