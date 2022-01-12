@@ -2,7 +2,6 @@
 
 
 const Dev-Neckitta = {
-
     name: "Neckitta",
 
     age: 18,
@@ -20,7 +19,6 @@ const Dev-Neckitta = {
     },
 
     languages: ["PHP", "Python"]
-
 };
 
 
