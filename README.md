@@ -2,15 +2,15 @@
 
 
 const Fnr = {
-    name: "Ahmed",
-    age: 17,
-    from: "Bahrain",
-    Discord: "Fnr#0017",
+    name: "Neckitta",
+    age: 18,
+    from: "French",
+    Discord: "DEV | Neckitta#0001",
     technologies: {
-        backend: ["NodeJS", "express"],
-        database: ["Mysql", "MongoDB"],
+        backend: ["Pocketmine"],
+        database: ["Mysql"],
     },
-    languages: ["Python", "HTML", "CSS", "JavaScript"]
+    languages: ["PHP", "Python"]
 };
 
-# lol
+# Yeah
