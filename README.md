@@ -1,7 +1,7 @@
 # About Me 
 
 
-const Dev-Neckitta = {
+const Neckitta = {
     name: "Neckitta",
     age: 18,
     from: "French",
